@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
         <title>Резюме</title>
@@ -8,10 +7,10 @@
     <body>
         <div id="header">
             <h1>Нагуманов Максим</h1>
-            <h2>Веб-разработчик, джуниор</h2>
+            <h3>Веб-разработчик, джуниор</h3>
             <p>
                 <a href="mailto:twiztcoyote@gmail.com">twiztcoyote@gmail.com</a>,
-                <a href="https://www.facebook.com/profile.php?id=100004674367333">https://www.facebook.com/profile.php?id=100004674367333</a>
+                <a href="https://twiztez.github.io">twiztez.github.io</a>
             </p>
         </div>
         <div id="main">
